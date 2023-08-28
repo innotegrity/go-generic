@@ -34,7 +34,7 @@ func (s Set[E]) Contains(val E) bool {
 // Intersection returns the overlapping elements in each set.
 func (s Set[E]) Intersection(s2 Set[E]) Set[E] {
 	result := NewSet[E]()
-	for _, v := range s.Members() {
+	for v := range s {
 		if s2.Contains(v) {
 			result.Add(v)
 		}

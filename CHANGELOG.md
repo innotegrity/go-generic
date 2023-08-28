@@ -8,6 +8,10 @@ and utilizes [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0
 
 No unreleased changes
 
+## v0.1.1 (Released 2023-08-28)
+
+* Added slice functions
+  
 ## v0.1.0 (Released 2023-08-23)
 
 ### Notes
