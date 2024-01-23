@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="128" src="./logo.png" alt="error logo" />
+  <img width="128" src="./logo.png" alt="generic logo" />
   <h1>go-generic</h1>
   <p>Helpful generic types which can be utilized across libraries</p>
   <hr />
